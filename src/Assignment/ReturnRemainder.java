@@ -11,8 +11,9 @@ public class ReturnRemainder {
 
 	public static void main(String[] args) {
 		ReturnRemainder r1=new ReturnRemainder();
-		int result=r1.remainder(30, 20);
+		int result=r1.remainder(10, 3);
 		System.out.println(result);
+		
 		
 		
 	
